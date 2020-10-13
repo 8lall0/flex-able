@@ -1,6 +1,6 @@
 {
   "name": "@8lall0/flex-able",
-  "version": "0.0.1",
+  "version": "0.9.0",
   "description": "A flex-ible alternative to display: block on layout divs.",
   "repository": {
     "type": "git",
