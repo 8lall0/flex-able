@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/8lall0/flex-able.git"
   },
-  "scripts" : {
-    "prepublish" : "make minify"
-  },
   "keywords": [
     "flexbox",
     "display",
@@ -20,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/8lall0/flex-able/issues"
   },
-  "homepage": "https://github.com/8lall0/flex-able#readme"
+  "homepage": "https://github.com/8lall0/flex-able#readme",
+  "devDependencies": {}
 }
