@@ -1,0 +1,4 @@
+body, div, nav, aside, footer, header, main, section, article {
+  display: flex;
+  flex-direction: column;
+}
