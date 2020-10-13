@@ -1,0 +1,24 @@
+{
+  "name": "@8lall0/flex-able",
+  "version": "0.0.1",
+  "description": "A flex-ible alternative to display: block on layout divs.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8lall0/flex-able.git"
+  },
+  "scripts" : {
+    "prepublish" : "make minify"
+  },
+  "keywords": [
+    "flexbox",
+    "display",
+    "css",
+    "block"
+  ],
+  "author": "Savino Pio Liguori <savino.liguori@gmail.com> (8lall0.github.io)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/8lall0/flex-able/issues"
+  },
+  "homepage": "https://github.com/8lall0/flex-able#readme"
+}
